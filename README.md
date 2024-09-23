@@ -5,7 +5,7 @@
 <h1>ATM Machine</h1>
  <b>A console object oriented programming project on ATM machine. </b>
 
-<h2>Present Project:<br>
+<h2>Presentation:<br>
   <ul>
   <li>A Account Holder goes to machine ,provide his credentials .
   <li>Account Manager checks the credentials and returns customers account to the machine(his name ,acc number, balance).
